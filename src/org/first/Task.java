@@ -19,7 +19,8 @@ public class Task{
 		m.put("kavi", 82);
 		m.put("muthu", 240);
 		m.put("mathi", 500);
-		
+		m.put("kavin",1000);
+		m.put("kumar", 2000);
 		
 		
 		Set<String> key = m.keySet();
